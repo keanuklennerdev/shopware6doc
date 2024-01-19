@@ -185,6 +185,9 @@ remote server  > bin/console theme:compile
 remote server  > bin/console cache:clear
 ```
 
+## Shopware 6 Important Links
+- [Kundenspezifische Preise einrichten](https://sitegeist.de/blog/e-commerce/kundenindividuelle-preise-in-shopware-6.html)
+
 
 
 

@@ -3,8 +3,6 @@
 ```bash
 /opt/plesk/php/7.4/bin/php -d memory_limit=-1 bin/console
 ```
-
-```
 ### Database Migrations
 ```bash
 database:create-migration -p pluginname [--name examplename]
